@@ -1,5 +1,5 @@
-import EmployeeFilter from "./EmployeeFilter.js"
-import EmployeeAdd from "./EmployeeAdd.js"
+import EmployeeFilter from "./EmployeeFilter.jsx"
+import EmployeeAdd from "./EmployeeAdd.jsx"
 
 const initialEmployees = [
     {
